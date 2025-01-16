@@ -5,11 +5,10 @@
   "scripts": {
     "deploy": "bash deploy.sh",
     "license": "MIT",
-    "docs:dev": "vitepress dev docs --host",
-    "docs:build": "vitepress build docs --host",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs --host"
   },
   "dependencies": {
-    "yarn": "^1.22.22"
   }
 }
