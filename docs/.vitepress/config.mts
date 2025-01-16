@@ -4,7 +4,7 @@ import { sidebar } from './navbar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/vitepress-myblog-demo/',
+  base: '/',
   title: "GJ504b",
   description: "Welcome to GJ504b's World",
   themeConfig: {
